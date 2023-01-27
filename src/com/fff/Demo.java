@@ -24,6 +24,7 @@ public class Demo {
 		System.out.println("10"+empty.orElse("value not present"));
 		//value.ifPresent(System.out::println);
 		System.out.println("11"+value.getClass());
+		System.out.println("done all operartions");
 		
 	}
 }
